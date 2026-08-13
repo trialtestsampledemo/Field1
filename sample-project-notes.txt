@@ -1,0 +1,6 @@
+Sample Project Notes
+
+Date: August 13, 2026
+Status: In Progress
+
+Use this file to demonstrate uploading a text document to a GitHub repository.
